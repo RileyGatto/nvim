@@ -1,4 +1,7 @@
 # nvim
+<a href="https://dotfyle.com/RileyGatto/nvim"><img src="https://dotfyle.com/RileyGatto/nvim/badges/plugins?style=flat" /></a>
+<a href="https://dotfyle.com/RileyGatto/nvim"><img src="https://dotfyle.com/RileyGatto/nvim/badges/leaderkey?style=flat" /></a>
+<a href="https://dotfyle.com/RileyGatto/nvim"><img src="https://dotfyle.com/RileyGatto/nvim/badges/plugin-manager?style=flat" /></a>
 
 ## Overview
 This repositiory stores my nvim configuration files. If you are not Riley Gatto please feel free to
