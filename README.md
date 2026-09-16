@@ -14,8 +14,6 @@ configuration files so you gain experience and a deeper understanding of nvim / 
 
 ## Installation / Prerequisite 
 - [Neovim](https://github.com/neovim/neovim/blob/master/INSTALL.md)
-- [NodeJS](https://nodejs.org/en)
-- [Python](https://www.python.org/)
 
 ## Setup
 ### Step 1:
@@ -47,12 +45,6 @@ Open nvim
 ### icon
 
 + [nvim-tree/nvim-web-devicons](https://dotfyle.com/plugins/nvim-tree/nvim-web-devicons)
-### lsp
-
-+ [neovim/nvim-lspconfig](https://dotfyle.com/plugins/neovim/nvim-lspconfig)
-### lsp-installer
-
-+ [williamboman/mason.nvim](https://dotfyle.com/plugins/williamboman/mason.nvim)
 ### marks
 
 + [ThePrimeagen/harpoon](https://dotfyle.com/plugins/ThePrimeagen/harpoon)
@@ -74,16 +66,6 @@ Open nvim
 ### terminal-integration
 
 + [akinsho/toggleterm.nvim](https://dotfyle.com/plugins/akinsho/toggleterm.nvim)
-## Language Servers
-
-+ bashls
-+ clangd
-+ cssls
-+ html
-+ lua_ls
-+ omnisharp
-+ pyright
-
 
 ## Keymaps
 ### General
