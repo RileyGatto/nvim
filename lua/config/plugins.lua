@@ -8,6 +8,14 @@ require("lazy").setup({
     { import = "config.plugins.nvim-cmp" },
     { import = "config.plugins.lsp" },
     { import = "config.plugins.lualine" },
-    { import = "config.plugins.toggleterm" }
+    { import = "config.plugins.toggleterm" },
+    { import = "config.plugins.neo-tree" },
+    { import = "config.plugins.gitsigns" },
+    { import = "config.plugins.comment" },
+    { import = "config.plugins.autopairs" },
+    { import = "config.plugins.bufferline" },
+    { import = "config.plugins.which-key" },
+    { import = "config.plugins.indent-blankline" },
+    { import = "config.plugins.conform" },
   },
 })
